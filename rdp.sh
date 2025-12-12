@@ -36,8 +36,8 @@ services:
       VERSION: "11"
       USERNAME: "SEMBONG"
       PASSWORD: "admin@123"
-      RAM_SIZE: "128GB"
-      CPU_CORES: "Intel Gen 8"
+      RAM_SIZE: "128G"
+      CPU_CORES: "4"
     devices:
       - /dev/kvm
       - /dev/net/tun
